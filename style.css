@@ -34,3 +34,9 @@ h2{
     padding: 16px 10px 0;
     margin-bottom: 0px;
 }
+
+img{
+    width: 500px;
+    height: auto;
+    padding: 10px;
+}
