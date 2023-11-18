@@ -1,11 +1,36 @@
 * {
     background-color:aquamarine;
+    box-sizing: border-box;
+    
+    
 }
 
 p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5px 40px 20px;
+    margin-top: 0px;
 }
 
 li{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+body{
+    border: 5px solid;
+    margin:50px auto;
+    max-width: 600px;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+    border: 3px solid;
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+h2{
+    padding: 16px 10px 0;
+    margin-bottom: 0px;
 }
